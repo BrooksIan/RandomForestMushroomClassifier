@@ -11,7 +11,7 @@
 **Author**: Ian Brooks
 **Follow** [LinkedIn - Ian Brooks PhD] (https://www.linkedin.com/in/ianrbrooksphd/)
 
-What would Bear do? 
+##What would Bear do? 
 
 ![Bear](https://si.wsj.net/public/resources/images/BN-PQ649_bear09_J_20160901003355.jpg "Bear")
 

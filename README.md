@@ -14,7 +14,7 @@
 What would Bear do?  
 ![alt text][logo]
 
-[logo]:https://static.thenortheasttoday.com/wp-content/uploads/2016/12/BearGrylls-800x445.png
+![Bear](https://static.thenortheasttoday.com/wp-content/uploads/2016/12/BearGrylls-800x445.png "Bear")
 
 ## Pre-Run Instructions
 

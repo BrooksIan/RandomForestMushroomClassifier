@@ -12,8 +12,8 @@
 **Follow** [LinkedIn - Ian Brooks PhD] (https://www.linkedin.com/in/ianrbrooksphd/)
 
 What would Bear do? 
- 
-![Bear](https://static.thenortheasttoday.com/wp-content/uploads/2016/12/BearGrylls-800x445.png "Bear")
+
+![Bear](https://si.wsj.net/public/resources/images/BN-PQ649_bear09_J_20160901003355.jpg "Bear")
 
 ## Pre-Run Instructions
 
